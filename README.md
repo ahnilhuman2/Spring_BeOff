@@ -11,9 +11,6 @@
 
 프로젝트 발표 url : https://www.youtube.com/playlist?list=PLedGoSru794_QVz2l6M3jL4Kjc5yJ8N8J
 
-<p align="">
-<img width="500" alt="erd8" src="https://user-images.githubusercontent.com/112387307/224238495-a9c011b0-d17a-46ba-9db7-474046386001.png">
-
 ### 📌 프로젝트 기술스택
 - 에디터 : Eclipse
 - 개발 툴 : SpringBoot 2.7.5
